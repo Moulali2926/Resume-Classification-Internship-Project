@@ -1,5 +1,3 @@
-# Resume-Classification-Internship-Project
-
 
 # Project 257– Resume Classification
 
